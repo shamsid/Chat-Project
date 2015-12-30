@@ -1,7 +1,7 @@
 '''
-Created on Sep 18, 2015
+Created on Oct 16, 2015
 
-@author: Krishnendu_C
+@author: shamsher.ahmed
 '''
 import cx_Oracle
 def create_connection():

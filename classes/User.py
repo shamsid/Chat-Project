@@ -1,7 +1,6 @@
 '''
-Created on Oct 16, 2015
-
-@author: vikas.yadav09
+Created on Oct 18, 2015
+@author: shamsher.ahmed
 '''
 class User:
     def __init__(self):

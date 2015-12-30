@@ -1,7 +1,7 @@
 '''
-Created on Oct 20, 2015
+Created on Oct 16, 2015
 
-@author: vikas.yadav09
+@author: shamsher.ahmed
 '''
 from classes import User
 from validations import validate_methods

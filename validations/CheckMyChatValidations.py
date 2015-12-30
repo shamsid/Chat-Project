@@ -1,7 +1,7 @@
 '''
-Created on Oct 20, 2015
+Created on Oct 16, 2015
 
-@author: vikas.yadav09
+@author: shamsher.ahmed
 '''
 from utility import DBConnectivity
 from exceptions import CustomExceptions

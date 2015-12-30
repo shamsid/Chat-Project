@@ -1,7 +1,7 @@
 '''
-Created on Oct 20, 2015
+Created on Oct , 2015
 
-@author: vikas.yadav09
+@author: shamsher.ahmed
 '''
 class CheckMyChats_Class:
     def __init__(self):

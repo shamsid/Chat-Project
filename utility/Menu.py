@@ -1,8 +1,7 @@
-
 '''
-Created on Sep 18, 2015
+Created on Oct 16, 2015
 
-@author: Krishnendu_C
+@author: shamsher.ahmed
 '''
 '''
 This module displays a menu to the user.

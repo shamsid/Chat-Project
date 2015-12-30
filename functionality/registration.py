@@ -1,7 +1,7 @@
 '''
 Created on Oct 16, 2015
 
-@author: vikas.yadav09
+@author: shamsher.ahmed
 '''
 from validations import validate_methods
 from classes.Captcha import Captcha;
